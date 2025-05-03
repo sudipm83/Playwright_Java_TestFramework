@@ -1,0 +1,13 @@
+org\example\regression\common\Constants.class
+org\example\regression\common\AccessibilityUtil.class
+org\example\regression\common\Hook.class
+org\example\regression\common\AbstractSteps.class
+org\example\regression\common\CommonTestStepDefinition.class
+org\example\regression\common\enums\TestContext.class
+org\example\regression\steps\LoginSteps.class
+org\example\regression\common\enums\User.class
+org\example\regression\pages\LoginPage.class
+org\example\regression\common\enums\UserRole.class
+org\example\regression\common\enums\User$1.class
+org\example\regression\common\PlaywrightInit.class
+regression\common\enums\AccessibilitySpec.class
