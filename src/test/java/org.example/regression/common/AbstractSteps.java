@@ -2,7 +2,7 @@ package org.example.regression.common;
 
 import org.example.regression.common.enums.TestContext;
 
-public class AbstractSteps {
+public abstract class AbstractSteps {
     private final String defaultUrl = "https://www.saucedemo.com/";
     private final String appTestUrl = System.getProperty("applicationTestUrl", defaultUrl);
 
